@@ -1,4 +1,4 @@
-# Hello 👋 I'm D3XT3R! 
+# Hello 👋 I'm Astro! 
 
 ### Follow my handles:
 &nbsp;<a href="https://telegram.me/AstroDEV63"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
