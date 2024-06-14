@@ -4,7 +4,7 @@
 &nbsp;<a href="https://telegram.me/AstroDEV63"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 &nbsp;<a href="https://github.com/AstroDEV63"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
-<a href="https://github.com/D3XT3R_07">
+<a href="https://github.com/AstroDEV63">
 <img align="left" src="https://komarev.com/ghpvc/?username=AstroDEV63&label=Profile%20views&color=F78F57&style=flat" alt="AstroDEV63_Github_ProfileViews_Statistics">
 </a>
 
